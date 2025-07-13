@@ -1,10 +1,8 @@
 # Assignmet-2
 
-#Task1
-
 This repository contains two simple Python programs that demonstrate basic programming concepts such as input/output, conditionals, loops, and arithmetic operations.
 
-Project 1: Check Even or Odd
+#Task1: Check Even or Odd
 
 Description :
 
